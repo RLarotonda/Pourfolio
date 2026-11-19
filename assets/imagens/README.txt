@@ -1,0 +1,1 @@
+As fotografias das receitas são fornecidas pela TheCocktailDB. Fotos pessoais são guardadas no diretório privado do aplicativo.

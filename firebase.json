@@ -1,0 +1,1 @@
+{"firestore":{"rules":"firestore.rules"},"flutter":{"platforms":{"android":{"default":{"projectId":"pourfolio-cocktail","appId":"1:39023425637:android:6d4477d76e2d0b939d2e8c","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"pourfolio-cocktail","configurations":{"android":"1:39023425637:android:6d4477d76e2d0b939d2e8c"}}}}}}

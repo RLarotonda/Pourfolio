@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="LaunchTheme" parent="@android:style/Theme.Material.NoActionBar">
+    <item name="android:windowSplashScreenBackground">@color/pourfolio_background</item>
+    <item name="android:windowSplashScreenAnimatedIcon">@drawable/pourfolio_splash</item>
+    <item name="android:windowSplashScreenIconBackgroundColor">@color/pourfolio_background</item>
+    <item name="android:windowBackground">@color/pourfolio_background</item>
+  </style>
+</resources>
