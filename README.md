@@ -184,3 +184,4 @@ users/{uid}/collections/{uuid}        # coleções de receitas
 - Receitas e imagens: [TheCocktailDB](https://www.thecocktaildb.com/api.php) (chave de teste `1`, uso educacional).
 - Fontes: Playfair Display e DM Sans, sob licença OFL (arquivos em `assets/fonts/`).
 - Projeto acadêmico, sem fins comerciais.# Pourfolio
+# Pourfolio
