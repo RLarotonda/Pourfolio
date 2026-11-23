@@ -185,3 +185,4 @@ users/{uid}/collections/{uuid}        # coleções de receitas
 - Fontes: Playfair Display e DM Sans, sob licença OFL (arquivos em `assets/fonts/`).
 - Projeto acadêmico, sem fins comerciais.# Pourfolio
 # Pourfolio
+# Pourfolio_app
