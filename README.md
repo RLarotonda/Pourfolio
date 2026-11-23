@@ -9,7 +9,7 @@ Trabalho Final da disciplina **Desenvolvimento de Aplicações Mobile** (Flutter
 | Nome | GitHub |
 | --- | --- |
 | Rafael Larotonda | [@RLarotonda](https://github.com/RLarotonda) |
-| Luana Cosmo | [@Luanacosmo] (https://github.com/Luanacosmo)|
+| Luana Cosmo | [@Luanacosmo](https://github.com/Luanacosmo)|
 
 O projeto é uma evolução do [APK_cocktail](https://github.com/RLarotonda/APK_cocktail) (trabalho anterior da disciplina): a integração com a TheCocktailDB foi mantida e a API do GIPHY foi removida.
 
